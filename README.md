@@ -1,5 +1,9 @@
 # Smart-Contracts
 
+### Smart Contract Verification
+Reference:
+- [Etherscan Verification](https://etherscan.io/verifyContract) *Though, it can be done through [Remix Plugin](https://remix-ide.readthedocs.io/en/latest/contract_verification.html#etherscan) too.*
+
 ### Upload to IPFS using API
 Reference: 
 - [ERC1155 Dev & Deployment](https://www.youtube.com/watch?v=wYOPh8TX_Tw), 
