@@ -1,7 +1,10 @@
 # Smart-Contracts
 
 ### Upload to IPFS using API
-Reference: [ERC1155 Dev & Deployment](https://www.youtube.com/watch?v=wYOPh8TX_Tw), [Wizard Contract Developer - OpenZeppelin](https://www.openzeppelin.com/contracts)
+Reference: 
+- [ERC1155 Dev & Deployment](https://www.youtube.com/watch?v=wYOPh8TX_Tw), 
+- [Wizard Contract Developer - OpenZeppelin](https://www.openzeppelin.com/contracts)
+- [Pinata IPFS Cloud](https://www.pinata.cloud/) *IPFS Desktop setup can be done to docker but cloud is preferred.*
 ```
 const axios = require('axios')
 const FormData = require('form-data')
