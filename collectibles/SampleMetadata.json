@@ -1,0 +1,10 @@
+{
+    "name": "Certificate of Enrollment#{id}",
+    "description": "Certification of enrollment to The Timeless Tutor.",
+    "imageURI": "https://avatars.githubusercontent.com/u/135448616?s=400&u=74e9ea61cb4c7d10e70fea3138c49d8b437c644f&v=4",
+    "attributes": [
+        {
+            "course": "Course Name"
+        }
+    ]
+}
