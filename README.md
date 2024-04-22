@@ -1,7 +1,7 @@
 # Smart-Contracts
 
 ### Upload to IPFS using API
-Reference: [ERC1155 Dev & Deployment](https://www.youtube.com/watch?v=wYOPh8TX_Tw)
+Reference: [ERC1155 Dev & Deployment](https://www.youtube.com/watch?v=wYOPh8TX_Tw), [Wizard Contract Developer - OpenZeppelin](https://www.openzeppelin.com/contracts)
 ```
 const axios = require('axios')
 const FormData = require('form-data')
